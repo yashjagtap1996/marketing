@@ -1,0 +1,17 @@
+#Jane img{
+  height: 250px;
+}
+
+#Mike img{
+  height: 250px;
+}
+
+
+#John img {
+  height: 250px;
+}
+@media screen and(max-width:1399px) {
+  #Jane img{
+    height: 350px;
+  }
+}
